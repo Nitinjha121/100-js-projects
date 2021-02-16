@@ -1,0 +1,16 @@
+   #text{
+            text-align: center;
+            position: relative;
+            top:170px;
+        }
+        #change{
+            text-align: center;
+            position: relative;
+            top: 200px;
+            padding: 8px;
+            font-size: 15px;
+            display: flex;
+            margin: auto;
+            cursor: pointer;
+            background-color: aliceblue;
+        }
