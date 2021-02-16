@@ -1,0 +1,22 @@
+   html, body{
+        font-family: inherit;
+        height: 100%;
+        background-color: bisque;
+    }
+    #jumbotron{
+        width: 600px;
+        display: inline-block;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        position: relative;
+        margin-top: 150px;
+        
+    }
+    .btn:hover{
+        background-color: aqua;
+    }
+    
+    #quote{
+        font-size: 45px;
+    }
